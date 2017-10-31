@@ -1,5 +1,8 @@
 # taskmanagement_with_issues
 
+## 締切
+[Milestone](https://github.com/stakiran/taskmanagement_with_issues/milestones) を使う。YYYY/MM/DD という名前の Milestone を、「締切日が YYYY/MM/DD である」という属性として利用し、Issue に設定する。
+
 ## 親子関係
 小タスク内から親タスクに `#6` のようにして言及してやると、親タスク側から「小タスクから参照されたよ」と表示されるので依存関係を擬似的に表現できる。これを使えば簡易的な親子関係が実現できなくもない……。
 
