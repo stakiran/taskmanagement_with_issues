@@ -4,8 +4,8 @@
 小タスク内から親タスクに `#6` のようにして言及してやると、親タスク側から「小タスクから参照されたよ」と表示されるので依存関係を擬似的に表現できる。これを使えば簡易的な親子関係が実現できなくもない……。
 
 - [親タスク](https://github.com/stakiran/taskmanagement_with_issues/issues/6)
- - [小タスク1](https://github.com/stakiran/taskmanagement_with_issues/issues/7)
- - [小タスク2](https://github.com/stakiran/taskmanagement_with_issues/issues/8)
+  - [小タスク1](https://github.com/stakiran/taskmanagement_with_issues/issues/7)
+  - [小タスク2](https://github.com/stakiran/taskmanagement_with_issues/issues/8)
 
 ## 優先度
 各優先度のタスク一覧:
